@@ -2,6 +2,10 @@
 
 App mobile de cadastro de usuários feito com React Native + Expo.
 
+## Objetivo
+
+Permitir que novos usuários criem uma conta informando nome, sobrenome, email e senha. O projeto serve como base para fluxos de autenticação em apps mobile.
+
 ## Tecnologias
 
 - React Native 0.83

@@ -21,11 +21,7 @@ export default function RegisterScreen() {
     const [confirmarSenha, setConfirmarSenha] = useState("");
 
     return (
-        <SafeAreaView style={styles.container}>
-            <KeyboardAvoidingView
-                style={{ flex: 1 }}
-                behavior={Platform.OS === "ios" ? "padding" : "height"}
-            >    
+        <SafeAreaView style={styles.container}>  
                     <View style={styles.logoArea}>
                         <Text style={styles.logoText}>FIAP</Text>
                     </View>
@@ -85,8 +81,6 @@ export default function RegisterScreen() {
                             </Text>
                         </TouchableOpacity>
                     </View>
-                
-            </KeyboardAvoidingView>
         </SafeAreaView>
     );
 }
