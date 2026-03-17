@@ -1,6 +1,5 @@
 # meu-app
-
-App mobile de cadastro de usuários feito com React Native + Expo.
+<img width="1206" height="2622" alt="simulator_screenshot_6A882F5A-8485-40BD-863A-B8BDA19A88B8" src="https://github.com/user-attachments/assets/0850c603-6753-4d19-bf05-8bc88a3efa3d" />
 
 ## Objetivo
 
