@@ -3,12 +3,12 @@ import { StyleSheet, TouchableOpacity, Text } from "react-native";
 
 interface ButtonLogProps {
     textButton: string;
-    onPress?: () => void;
+    
 }
 
-export default function ButtonLog({ textButton, onPress }: ButtonLogProps) {
+export default function ButtonLog({ textButton }: ButtonLogProps) {
     return (
-        <TouchableOpacity style={styles.button} onPress={onPress} activeOpacity={0.85}>
+        <TouchableOpacity style={styles.button}  activeOpacity={0.85}>
             <Text style={styles.text}>{textButton}</Text>
         </TouchableOpacity>
     );
