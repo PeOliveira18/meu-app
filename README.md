@@ -34,7 +34,7 @@ src/
 Campo de texto com label em caixa alta. Aceita todas as props do `TextInput` do React Native, mais a prop `name` (label exibida acima do campo).
 
 ### `ButtonLog`
-Botão de ação principal. Props: `textButton` (texto) e `onPress` (callback opcional).
+Botão de ação principal. Props: `textButton` (texto) e.
 
 ### `RegisterScreen`
 Tela de cadastro com os campos: Nome, Sobrenome, Email, Senha e Confirmar Senha.
