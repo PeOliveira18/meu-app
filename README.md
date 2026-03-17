@@ -5,12 +5,6 @@
 
 Permitir que novos usuários criem uma conta informando nome, sobrenome, email e senha. O projeto serve como base para fluxos de autenticação em apps mobile.
 
-## Tecnologias
-
-- React Native 0.83
-- Expo ~55
-- TypeScript
-
 ## Como rodar
 
 ```bash
@@ -37,7 +31,7 @@ src/
 Campo de texto com label em caixa alta. Aceita todas as props do `TextInput` do React Native, mais a prop `name` (label exibida acima do campo).
 
 ### `ButtonLog`
-Botão de ação principal. Props: `textButton` (texto) e.
+Botão de ação principal. Props: `textButton` (texto).
 
 ### `RegisterScreen`
 Tela de cadastro com os campos: Nome, Sobrenome, Email, Senha e Confirmar Senha.
