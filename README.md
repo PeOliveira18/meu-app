@@ -7,7 +7,8 @@
 
 ## Objetivo
 
-Permitir que novos usuários criem uma conta informando nome, sobrenome, email e senha. O projeto serve como base para fluxos de autenticação em apps mobile.
+Este projeto tem como objetivo desenvolver uma interface mobile de autenticação, permitindo que usuários acessem sua conta informando email e senha. Além do login, o app contempla:
+
 
 ## Como rodar
 
